@@ -1,0 +1,20 @@
+header{
+    height: 15vh;
+    width: 100%;
+    background-color: var(--primary-color);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.title-header{
+    font-size: 4rem;
+    font-family: 'Inter';
+    font-weight: 700;
+    color: var(--primary-color2);
+}
+
+.logo-header{
+    font-size: 4rem;
+}

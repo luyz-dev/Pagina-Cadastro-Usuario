@@ -1,0 +1,10 @@
+button{
+    border-radius: 5px;
+    width: 50vw;
+    height: 3rem;
+    background-color: var(--primary-color2);
+    color: #ffffff;
+    font-family: 'Inter';
+    font-weight: 600;
+    font-size: 1rem;
+}
