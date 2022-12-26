@@ -18,3 +18,13 @@ header{
 .logo-header{
     font-size: 4rem;
 }
+
+@media (max-width:768px){
+    .title-header{
+        font-size: 3rem;
+    }
+    .logo-header{
+        font-size: 3rem;
+    }
+
+}

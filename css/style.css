@@ -22,3 +22,10 @@ form{
     gap: 38px;
     height: 70vh;
 }
+
+@media (max-width:768px){
+    form{
+        height: 60vh;
+    }
+
+}
